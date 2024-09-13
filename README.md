@@ -1,4 +1,4 @@
-Here’s a single-file README for a MERN stack application named "JobZee":
+
 
 ---
 
@@ -96,4 +96,4 @@ JobZee is a job listing application built using the MERN stack. It allows users 
 
 ---
 
-Feel free to adapt this README to better fit the details and specifics of your JobZee application!
+
